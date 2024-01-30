@@ -14,6 +14,7 @@ public class JuanAntonioGIT {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         String nombre= "Juan";
-        System.out.println(nombre);
+        String apellido2= "Marín";
+        System.out.println(nombre + " " + apellido2 );
     }
 }

@@ -15,7 +15,6 @@ public class JuanAntonioGIT {
         System.out.println("Hello World!");
         String nombre= "Juan";
         String apellido2= "Marín";
-        int edad = 25;
-        System.out.println(nombre + " " + apellido2 + " " + edad );
+        System.out.println(nombre + " " + apellido2);
     }
 }
